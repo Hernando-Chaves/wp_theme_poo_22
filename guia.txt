@@ -1,0 +1,26 @@
+SECCIONES
+    - INICIO
+    - CURSOS
+    - INSTRUCTORES
+    - CONTACTO
+
+
+CPT CURSOS
+    - Titulo
+    - Precio
+    - Imagen
+    - Descripción corta
+    - Contenido5
+    - Profesor
+    - Categoría
+    - Lugar
+    - Fecha del curso
+    - Horario
+
+CPT INSTRUCTOR
+    - Descripción
+    - Descripción corta
+    - Imagen
+    - Especalidades
+    - Redes sociales
+

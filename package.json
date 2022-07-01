@@ -1,0 +1,17 @@
+{
+  "name": "html-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "laravel-mix": "^6.0.49"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "npx mix watch -- --watch-options-poll=1000",
+    "prod": "npx mix --production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
